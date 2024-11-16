@@ -1,2 +1,2 @@
 # Programas e Projetos
- Meu repositório geral.
+ Meu repositório geral de todos os meus programas e projetos.
